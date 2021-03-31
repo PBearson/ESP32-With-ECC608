@@ -3,4 +3,4 @@
 	url = https://github.com/PBearson/ESP32-ECC608-EC2
 [submodule "Provision-ECC608"]
 	path = Provision-ECC608
-	url = https://github.com/PBearson/Provision-ECC608
+	url = https://github.com/PBearson/Provision-ECC608.git
