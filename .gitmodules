@@ -4,3 +4,6 @@
 [submodule "Provision-ECC608"]
 	path = Provision-ECC608
 	url = https://github.com/PBearson/Provision-ECC608.git
+[submodule "esp-aws-iot"]
+	path = esp-aws-iot
+	url = https://github.com/PBearson/esp-aws-iot.git
